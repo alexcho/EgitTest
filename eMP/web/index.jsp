@@ -10,5 +10,6 @@
 HI add by anotherPC
    add by notherPC(2nd), this happended after mainPC added.
    
+   2번째 pc에서 수정한 부분.
 </body>
 </html>
